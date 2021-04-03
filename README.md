@@ -1,4 +1,4 @@
-### Hello World! <img width="30px" src="" >
+### Hello World! <img src="https://github.com/JoaoFilipeVale/JoaoFilipeVale/blob/main/Hi.gif?raw=true" width="30px">
 
 ✨ I'm João Vale, a Front-End Developer from Portugal.
 
