@@ -2,7 +2,7 @@
 
 ✨ I'm João Vale, a Front-End Developer from Portugal.
 
-- 🖥️ I’m currently working on: improving my skills
+- 🖥️ I’m currently working on: improve my skills
 - 🌱 I’m currently studying: reviewing JavaScript
 - 🔭 I’m looking to: a company that wants to embrace me
 - ⚡ Fun fact: i have a ninja dog 🐱‍👤
