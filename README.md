@@ -2,8 +2,8 @@
 
 ✨ I'm João Vale, a Front-End Developer from Portugal.
 
-- 🖥️ I’m currently working on: FYI
-- 🌱 I’m currently studying: Learning Vue Js
+- 🖥️ I’m currently working on: E-goi
+- 🌱 I’m currently studying: Napping
 - ⚡ Fun fact: I have a ninja dog 🐱‍👤
 
 <br>
